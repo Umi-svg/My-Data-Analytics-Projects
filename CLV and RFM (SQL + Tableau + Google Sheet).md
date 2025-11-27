@@ -1,2 +1,6 @@
+This project aims to perform a full customer segmentation and CLV analysis using SQL, RFM scoring, and weekly cohort modeling. It involves selecting one year of data, calculating recency, frequency, and monetary values, converting them into quartile-based RFM scores, and segmenting customers into key groups such as Best Customers, Loyal Customers, and Lost Customers. The project also requires building visual dashboards (Tableau/Power BI) to highlight which segments marketing should prioritize.
+
+In the second part, the project focuses on a refined CLV approach using cohort analysis. It tracks all users—not only buyers—by their registration week, calculates weekly and cumulative ARPU over 12 weeks, and uses cohort growth percentages to predict future revenue for recent cohorts. Visual tables with conditional formatting must show weekly ARPU, cumulative ARPU, and forecasted cumulative values. The final step is to interpret trends, identify key insights, and prepare the SQL queries, dashboards, and analysis for review.
+
 - [Queries, visualization, summary and recommendations](https://docs.google.com/spreadsheets/d/1tDAJ6TyuypeSZIeUCg0jrk5Rbib0GCXpxnwmbNLvgxE/edit?gid=1795219300#gid=1795219300)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/oumi.idrissi/viz/M3S3-RFM_17525857133030/RFMSegmentationDashboard?publish=yes)
