@@ -1,3 +1,5 @@
+This project aims to refine and enhance the existing Tableau dashboard for the fictional company AdventureWorks by improving labeling, formatting, and color design to align with company branding and ensure color-blind accessibility. It involves creating a cleaner, more interactive dashboard using AdventureWorks data, adding at least one new business insight, implementing a parameter-based custom filter, exploring additional data points, and providing brief analytical conclusions. The final dashboard will be published on Tableau Public for review.
+
 - [Analysis](https://docs.google.com/document/d/1FS8__RsDxK0w8mZQ2dhEbXUOZdDELb3dZ6iR6lCmt1k/edit?tab=t.lkn62lugqko5)
 - [Google Sheet](https://docs.google.com/presentation/d/13--tDa00VJyh1sf_ysI3JuE2bFcAec5yWIZslhZ6LbE/edit?slide=id.p#slide=id.p)
 - [Tableau dashboard](https://public.tableau.com/app/profile/oumi.idrissi/viz/M2S2Project-ExecutiveandSalesPresentations/MAINCompanyperf?publish=yes)
