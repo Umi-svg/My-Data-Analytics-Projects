@@ -23,13 +23,13 @@ A strategic shift to double down on the US (58.6% of revenue), and close the 7% 
 - Performance Metrics: Elevates online sales from 23% to 30% ($42.2M, adding $9.85M), reduces underperforming product losses (8 accessories < $10K), and stabilizes Q1 dips (e.g., January 2002-2004) by targeting untapped markets.
 - Cost-Benefit Analysis:
 
-Untapped Markets: Launch targeted online campaigns in US Southeast/Northeast/Central (currently 0% online penetration) to unlock new revenue.
+> Untapped Markets: Launch targeted online campaigns in US Southeast/Northeast/Central (currently 0% online penetration) to unlock new revenue.
 
-Mandate sales reason tracking at checkout (reduce 24% "Untracked" gap): Add more sales reasons to the list and make it mandatory for customers to select one when purchasing, and change the sales reason "Other" or add a mandatory free-form field next to it so customers can specify their reason.
+> Mandate sales reason tracking at checkout (reduce 24% "Untracked" gap): Add more sales reasons to the list and make it mandatory for customers to select one when purchasing, and change the sales reason "Other" or add a mandatory free-form field next to it so customers can specify their reason.
 
-Prune Low-Performers: Discontinue 8 accessories (<$10K sales; save 5% inventory costs) and bundle low-margin items (e.g., socks) with best-sellers (e.g., frames). Initial investments in online infrastructure, tracking systems, and team expansion could yield a high return, with the $9.85M upside and inventory cost savings outweighing costs, enhancing profitability and market share in high-potential markets like the US and Australia.
+> Prune Low-Performers: Discontinue 8 accessories (<$10K sales; save 5% inventory costs) and bundle low-margin items (e.g., socks) with best-sellers (e.g., frames). Initial investments in online infrastructure, tracking systems, and team expansion could yield a high return, with the $9.85M upside and inventory cost savings outweighing costs, enhancing profitability and market share in high-potential markets like the US and Australia.
 
-Promotions: Scale Volume Discounts in US Southwest/Northwest (+$15.4M historically) and Seasonal Discounts in Q3 (proven US sensitivity).
+> Promotions: Scale Volume Discounts in US Southwest/Northwest (+$15.4M historically) and Seasonal Discounts in Q3 (proven US sensitivity).
 
-Reevaluate Marketing Activities: It's unclear if marketing campaigns were run, but if they were, they did not significantly impact sales. Reevaluate the current marketing strategy and consider switching investments to better channels. Also television ads had low impact, so investment may be better made in other channels, must investigate first.
+> Reevaluate Marketing Activities: It's unclear if marketing campaigns were run, but if they were, they did not significantly impact sales. Reevaluate the current marketing strategy and consider switching investments to better channels. Also television ads had low impact, so investment may be better made in other channels, must investigate first.
 
