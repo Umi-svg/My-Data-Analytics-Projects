@@ -1,7 +1,7 @@
 This project aims to choose one executive + department pair (Sales), build a clear strategic dashboard from AdventureWorks data, and prepare two tailored presentations (a ~5-minute executive pitch and a ~10-minute departmental briefing). The dashboard must be executive-ready—well labeled, branded, and structured—while supporting deeper tactical insights for the department lead, include data sources/SQL, clear metrics, and recommended next steps; presentations should explain the problem, key findings, business impact, limitations, and actionable recommendations.
 
 - [Analysis](https://docs.google.com/document/d/1FS8__RsDxK0w8mZQ2dhEbXUOZdDELb3dZ6iR6lCmt1k/edit?tab=t.lkn62lugqko5)
-- [Google Sheet](https://docs.google.com/presentation/d/13--tDa00VJyh1sf_ysI3JuE2bFcAec5yWIZslhZ6LbE/edit?slide=id.p#slide=id.p)
+- [Google Slides](https://docs.google.com/presentation/d/13--tDa00VJyh1sf_ysI3JuE2bFcAec5yWIZslhZ6LbE/edit?slide=id.p#slide=id.p)
 - [Tableau dashboard](https://public.tableau.com/app/profile/oumi.idrissi/viz/M2S2Project-ExecutiveandSalesPresentations/MAINCompanyperf?publish=yes)
 
 **1. The Problem**
